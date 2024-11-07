@@ -1,0 +1,22 @@
+/* style.css */
+
+/* Dark mode styling */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.dark-mode .form-control {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+body.dark-mode .btn-dark {
+    background-color: #444444;
+    border-color: #444444;
+}
+
+body.dark-mode .btn-primary {
+    background-color: #375a7f;
+    border-color: #375a7f;
+}
